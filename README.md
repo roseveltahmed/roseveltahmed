@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://i.ibb.co/27K3MCbB/Github-Banner-Copy.png" alt="Github Banner Copy" border="0">" alt="roseveltahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roseveltahmed" alt="roseveltahmed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roseveltahmed" alt="Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing." /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
 
