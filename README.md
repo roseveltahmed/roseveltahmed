@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rosevelt Ahmed</h1>
-<h3 align="center">Hello! I'm Rosevelt Ahmed, a passionate Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing.</h3>
+<h3 align="center">A passionate Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roseveltahmed&label=Profile%20views&color=0e75b6&style=flat" alt="roseveltahmed" /> </p>
 
