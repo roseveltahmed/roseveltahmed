@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Rosevelt Ahmed</h1>
-<h3 align="center">A passionate Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roseveltahmed&label=Profile%20views&color=0e75b6&style=flat" alt="roseveltahmed" /> </p>
+<h3 align="center">I'm Rosevelt Ahmed a passionate Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing.</h3>
+
+<p align="left"> <img src="https://i.ibb.co/27K3MCbB/Github-Banner-Copy.png" alt="Github Banner Copy" border="0">" alt="roseveltahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roseveltahmed" alt="roseveltahmed" /></a> </p>
 
