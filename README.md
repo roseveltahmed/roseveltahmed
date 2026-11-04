@@ -39,8 +39,15 @@
 
 ### 📊 GitHub Statistics
 
+<!-- GitHub Stats Card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&locale=en&custom_title=Rosevelt%20Ahmed's%20GitHub%20Stats" alt="Rosevelt Ahmed's GitHub Stats" />
+</p>
 
-<button class="Box-qIMv6G Pressable-KyqH6M" data-d-auto-spacing="" data-d-component="pressable" data-d-direction="col" data-d-has-width="" data-d-has-height="" aria-label="Open [Discussion]: Showing attribution to the stats card · Issue #90 · anuraghazra/github-readme-stats · GitHub" type="button" style="--smoothing-background-color: transparent; border-radius: 0px; background-color: transparent; flex-shrink: 0; height: 100%; width: 100%;"></button>
+<!-- GitHub Streak Card -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roseveltahmed&locale=en&custom_title=Rosevelt%20Ahmed's%20GitHub%20Streak" alt="Rosevelt Ahmed's GitHub Streak" />
+</p>
 
 
 
