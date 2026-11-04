@@ -35,20 +35,11 @@
 
 
 
-### Hi there 👋
+### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/roseveltahmed/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radial" alt="Rosevelt's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseveltahmed&layout=compact&theme=radial" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roseveltahmed&theme=radial" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radical" width="48%">
+  <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=radical" width="48%">
 </p>
 
 
