@@ -37,7 +37,9 @@
 
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=roseveltahmed&theme=default)
+<a href="https://github.com/roseveltahmed/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radial" alt="roseveltahmed's GitHub stats" />
+</a>
 
 
 
