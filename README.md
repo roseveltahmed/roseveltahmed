@@ -39,7 +39,9 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&include_all_commits=true&count_private=true&theme=default)
+
+<button class="Box-qIMv6G Pressable-KyqH6M" data-d-auto-spacing="" data-d-component="pressable" data-d-direction="col" data-d-has-width="" data-d-has-height="" aria-label="Open [Discussion]: Showing attribution to the stats card · Issue #90 · anuraghazra/github-readme-stats · GitHub" type="button" style="--smoothing-background-color: transparent; border-radius: 0px; background-color: transparent; flex-shrink: 0; height: 100%; width: 100%;"></button>
+
 
 
 
