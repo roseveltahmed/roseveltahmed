@@ -35,9 +35,9 @@
 
 
 
-<h1 align="center">📊 GitHub Analytics Dashboard</h1>
+<h1 align="left">📊 GitHub Analytics Dashboard</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
   <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=radical&hide_border=true" width="48%" />
 </p>
