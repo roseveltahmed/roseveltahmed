@@ -38,14 +38,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&include_all_commits=true&count_private=true&theme=default" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=default" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseveltahmed&layout=compact&theme=default" width="50%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=roseveltahmed&theme=default)
 
 
 
