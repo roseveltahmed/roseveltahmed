@@ -35,37 +35,13 @@
 
 
 
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=roseveltahmed&theme=default)
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=default&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF&include_all_commits=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=roseveltahmed&theme=default&hide_border=true&ring=0969DA&fire=E63946&currStreakLabel=0969DA" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseveltahmed&layout=compact&theme=default&hide_border=true&title_color=0969DA&bg_color=FFFFFF&text_color=24292F" />
-</p>
-
-<hr>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/roseveltahmed">
-    LinkedIn
-  </a> |
-  <a href="https://github.com/roseveltahmed">
-    GitHub
-  </a> |
-  <a href="https://www.roseveltahmed.com">
-    Portfolio
-  </a>
-</p>
 
 
 
