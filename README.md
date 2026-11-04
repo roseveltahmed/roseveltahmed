@@ -34,13 +34,10 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrabiul93&show_icons=true&locale=en&layout=compact" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrabiul93&show_icons=true&locale=en" alt="devrabiul93" /></p>
 
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&include_all_commits=true&count_private=true&theme=default)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrabiul93" alt="devrabiul93" /></p>
 
 
 
