@@ -35,8 +35,10 @@
 
 
 
+### 📊 GitHub Statistics
 
-<img src="https://user-images.githubusercontent.com/35374649/87819770-71e38680-c88a-11ea-8e12-03a6713de0b5.PNG" alt="credit_grs" style="max-width: 100%;">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&include_all_commits=true&count_private=true&theme=default)
+
 
 
 
