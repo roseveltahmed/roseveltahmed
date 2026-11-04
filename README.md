@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Rosevelt Ahmed a passionate Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing.</h3>
 
-<p align="left"> <[img src=https://i.ibb.co/mKf3K8Z/Git-Hub-Banner-Copy.jpg" alt="Github Banner Copy" border="0">"Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing"
+<p align="left"> <[img src=[https://ibb.co/F1RF1VZ" alt="Github Banner Copy" border="0">"Web Developer | WordPress Expert | Social Media Marketing Specialist | SEO & Digital Marketing"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roseveltahmed&label=Profile%20views&color=0e75b6&style=flat" alt="roseveltahmed" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roseveltahmed" alt="roseveltahmed" /></a> </p>
 
