@@ -36,7 +36,7 @@
 
 
 
-<img class="Image-wmW9sJ ZoomableImage-Qr3a6q" referrerpolicy="no-referrer" alt="[Discussion]: Showing attribution to the stats card · Issue #90 · anuraghazra/github-readme-stats · GitHub" fetchpriority="high" loading="eager" decoding="async" draggable="false" src="https://images.openai.com/static-rsc-4/lOgUck7h5ynzgNCekg9fG__YWgJg3VBBEylvKfKDyE2fZQRFevvA5dZRvWlDJSoXGUF5Eg7QQXkzqCWqPqGyjVJqC9AMIOeqVyGEvx1LFi2baGzflKYUHc9Gv-FfRMafyTwi2dGv7X89W16vMpgVLcUlgOVUCMjGnEGv8cP7T9Is1LgLXlJSkaletNOKI019?purpose=fullsize" style="">
+<img class="Image-wmW9sJ ZoomableImage-Qr3a6q" referrerpolicy="no-referrer" alt="[Discussion]: Showing attribution to the stats card · Issue #90 · roseveltahmed/github-readme-stats · GitHub" fetchpriority="high" loading="eager" decoding="async" draggable="false" src="https://images.openai.com/static-rsc-4/lOgUck7h5ynzgNCekg9fG__YWgJg3VBBEylvKfKDyE2fZQRFevvA5dZRvWlDJSoXGUF5Eg7QQXkzqCWqPqGyjVJqC9AMIOeqVyGEvx1LFi2baGzflKYUHc9Gv-FfRMafyTwi2dGv7X89W16vMpgVLcUlgOVUCMjGnEGv8cP7T9Is1LgLXlJSkaletNOKI019?purpose=fullsize" style="">
 
 
 
