@@ -44,9 +44,39 @@
 
 
 
+
+
+<h2 align="center">👋 Hello, I'm Rosevelt Ahmed!</h2>
+
+<p align="center">
+  💻 Web Developer | WordPress Expert | Digital Marketing Specialist
+</p>
+
+<p align="center">
+  🚀 Passionate about building modern websites and digital solutions.
+</p>
+
+---
+
+### 💬 Let's Connect & Collaborate!
+
+**I'm always open to discussing new projects, creative ideas, and opportunities.**
+
+- 🔭 Currently working on Web Development & Digital Marketing.
+- 🌱 Learning Advanced WordPress, SEO & AI Automation.
+- 👯 Looking to collaborate on Web Development and Digital Marketing projects.
+- 💬 Ask me about WordPress, Web Design, Web Development & SEO.
+- 📫 Reach me at: rosevelt2010@gmail.com
+- ⚡ Fun fact: I love turning creative ideas into real digital experiences!
+
+---
+
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&include_all_commits=true&count_private=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radical" width="48%">
+  <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=radical" width="48%">
+</p>
 
 
 
