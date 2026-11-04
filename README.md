@@ -46,15 +46,14 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&include_all_commits=true&count_private=true&theme=default)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&include_all_commits=true&count_private=true&theme=default" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=default" width="48%" />
+<!-- GitHub Stats Card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&locale=en&custom_title=Rosevelt%20Ahmed's%20GitHub%20Stats" alt="Rosevelt Ahmed's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseveltahmed&layout=compact&theme=default" width="50%" />
+<!-- GitHub Streak Stats Card -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roseveltahmed&locale=en&custom_title=Rosevelt%20Ahmed's%20GitHub%20Streak" alt="Rosevelt Ahmed's GitHub Streak" />
 </p>
 
 
