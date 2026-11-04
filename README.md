@@ -48,8 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&locale=en&custom_title=Rosevelt%20Ahmed's%20GitHub%20Stats" alt="Rosevelt Ahmed's GitHub Stats" />
 </p>
 
+<!-- GitHub Streak Stats Card -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&locale=en&custom_title=Rosevelt%20Ahmed's%20GitHub%20Stats" alt="Rosevelt Ahmed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roseveltahmed&locale=en" alt="Rosevelt Ahmed's GitHub Streak" />
 </p>
 
 
