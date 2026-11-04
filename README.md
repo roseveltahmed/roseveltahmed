@@ -37,10 +37,7 @@
 
 ### 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radical" width="48%">
-  <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=radical" width="48%">
-</p>
+[![Rosevelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true)](https://github.com/roseveltahmed/github-readme-stats)
 
 
 
