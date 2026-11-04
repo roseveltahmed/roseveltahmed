@@ -34,18 +34,12 @@
 
 
 
-
-### 📊 GitHub Statistics
-
-
 <h2 align="center">🔥 GitHub Live Activity & Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
   <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=radical&hide_border=false" width="48%" />
 </p>
-
-<h2 align="center">📅 GitHub Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roseveltahmed&theme=redical&hide_border=false&area=true" width="98%" />
