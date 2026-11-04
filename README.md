@@ -38,8 +38,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radical" width="48%">
-  <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=roseveltahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=roseveltahmed&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </p>
 
 
